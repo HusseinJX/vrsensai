@@ -1,0 +1,8 @@
+# assets
+Library
+Logs
+# ProjectSettings
+Temp
+.utmp
+vrshootcans_BackUpThisFolder_ButDontShipItWithYourGame
+vrsensai_BurstDebugInformation_DoNotShip
